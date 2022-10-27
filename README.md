@@ -47,5 +47,5 @@
 
 <p><img align="left" width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbahlangene&show_icons=true&locale=en&layout=compact" alt="victorbahlangene" /></p>
 
-<p>&nbsp;<img align="right" width="300"  src="https://github-readme-stats.vercel.app/api?username=victorbahlangene&show_icons=true&locale=en" alt="victorbahlangene" /></p>
+<p>&nbsp;<img align="right" width="325"  src="https://github-readme-stats.vercel.app/api?username=victorbahlangene&show_icons=true&locale=en" alt="victorbahlangene" /></p>
 
