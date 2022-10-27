@@ -1,4 +1,3 @@
-<img width=100% height="300" src="images/showcase.3e191944.jpg">
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center"><b>Can you solve any mathematical problem to any level of accuracy, Neural networks can?<b></h3>
 <img align='right' src='https://c.tenor.com/9z_YpLGzqf4AAAAC/jasonearlsgif-jasonearlsgifs.gif' width="225">
