@@ -18,6 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Natural_Language_Processing_with_Disaster_Tweets_Part_1](https://medium.com/@victorbahlangene96/natural-language-processing-with-disaster-tweets-part-1-910b61690b9a?source=rss-f688e584b697------2)
+- [Sign Language Image Classification part 3_1](https://medium.com/@victorbahlangene96/sign-language-image-classification-part-3-1-a1e6978407e8?source=rss-f688e584b697------2)
+- [Kaggle Vision Competition Project - Part 2](https://medium.com/@victorbahlangene96/kaggle-vision-competition-project-part-2-4b5023ffb3cb?source=rss-f688e584b697------2)
+- [Kaggle Vision Competition Project - Part 1](https://medium.com/@victorbahlangene96/kaggle-vision-competition-project-part-1-1e1e7a9934f2?source=rss-f688e584b697------2)
+- [NLP Transformers Project](https://medium.com/@victorbahlangene96/nlp-transformers-project-827f97476efa?source=rss-f688e584b697------2)
 <!-- BLOG-POST-LIST:END -->
 
 #
