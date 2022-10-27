@@ -1,3 +1,4 @@
+<img width=100% height="300" src="images/showcase.3e191944.jpg">
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center"><b>Can you solve any mathematical problem to any level of accuracy, Neural networks can?<b></h3>
 <img align='right' src='https://c.tenor.com/9z_YpLGzqf4AAAAC/jasonearlsgif-jasonearlsgifs.gif' width="225">
@@ -17,7 +18,9 @@
 #
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Natural_Language_Processing_with_Disaster_Tweets_Part_1](https://medium.com/@victorbahlangene96/natural-language-processing-with-disaster-tweets-part-1-910b61690b9a?source=rss-f688e584b697------2)
 - [Sign Language Image Classification part 3_1](https://medium.com/@victorbahlangene96/sign-language-image-classification-part-3-1-a1e6978407e8?source=rss-f688e584b697------2)
 - [Kaggle Vision Competition Project - Part 2](https://medium.com/@victorbahlangene96/kaggle-vision-competition-project-part-2-4b5023ffb3cb?source=rss-f688e584b697------2)
@@ -48,4 +51,3 @@
 <p><img align="left" width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbahlangene&show_icons=true&locale=en&layout=compact" alt="victorbahlangene" /></p>
 
 <p>&nbsp;<img align="right" width="300"  src="https://github-readme-stats.vercel.app/api?username=victorbahlangene&show_icons=true&locale=en" alt="victorbahlangene" /></p>
-
