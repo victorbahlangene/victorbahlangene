@@ -45,8 +45,8 @@
 
 [![Victor's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=victorbahlangene&&theme=xcode)](https://github.com/victorbahlangene)
 
-<p><img align="left" width="325"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbahlangene&show_icons=true&locale=en&layout=compact" alt="victorbahlangene" /></p>
+<p><img align="left" width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbahlangene&show_icons=true&locale=en&layout=compact" alt="victorbahlangene" /></p>
 
-<p>&nbsp;<img align="right" width="375"  src="https://github-readme-stats.vercel.app/api?username=victorbahlangene&show_icons=true&locale=en" alt="victorbahlangene" /></p>
+<p>&nbsp;<img align="right" width="350"  src="https://github-readme-stats.vercel.app/api?username=victorbahlangene&show_icons=true&locale=en" alt="victorbahlangene" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorbahlangene&" alt="victorbahlangene" /></p>
